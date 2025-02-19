@@ -29,7 +29,7 @@ export default function Signup() {
       <div className="text-center mb-6">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
           alt="WhatsApp Logo" className="h-16 mx-auto"/>
-        <h2 className="text-2xl font-semibold mt-2">Sign Up</h2>
+        <h2 className="text-2xl font-semibold mt-2">Enter the data</h2>
       </div>
 
       <form onSubmit={handleSubmit} className="space-y-4">
