@@ -55,7 +55,7 @@ export default function Signup() {
 
         <textarea
           name="message"
-          placeholder="Tell us what problems you are facing..."
+          placeholder="Problem you are facing..."
           value={userData.message}
           onChange={handleChange}
           className="w-full p-3 bg-gray-700 rounded-md focus:ring-2 focus:ring-green-500 h-24"
